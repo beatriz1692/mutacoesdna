@@ -24,4 +24,3 @@ Este projeto faz parte de uma iniciativa de bioinformática aplicada à saúde, 
 
 ---
 
-## 📝 Estrutura do Repositório
